@@ -1,0 +1,7 @@
+{
+  "name": "conso-bar",
+  "version": "1.0.0",
+  "description": "Barre de consommation (5 h / 7 j) et barre de travail au-dessus de la saisie",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

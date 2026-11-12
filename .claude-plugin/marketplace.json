@@ -1,0 +1,7 @@
+{
+  "name": "conso-bar",
+  "owner": { "name": "groetzvadim" },
+  "plugins": [
+    { "name": "conso-bar", "source": "./plugins/conso-bar", "description": "Barre de consommation (5 h / 7 j) et barre de travail animée au-dessus de la saisie" }
+  ]
+}

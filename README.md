@@ -10,7 +10,7 @@ Une barre fine au-dessus de la zone de saisie de Claude Code, inspirée d'Apple 
 Dans Claude Code :
 
 ```
-/plugin marketplace add <owner>/conso-bar
+/plugin marketplace add Azzoux/conso-bar
 /plugin install conso-bar@conso-bar
 ```
 
